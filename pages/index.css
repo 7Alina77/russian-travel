@@ -1,11 +1,9 @@
-@font-face {
-  font-family: Inter;
-  src: url(https://rsms.me/inter/);
-}
+@import url(../vendor/fonts/fonts.css);
 
 .page {
   background-color: #2A2C2F;
   color: #fff;
+  font-family: 'Inter';
 }
 
 .header {
@@ -56,12 +54,12 @@
 }
 
 .lead__subtitle {
-  margin: 0 auto;
+  margin: 32px auto 0;
   text-align: center;
-  font-family: Inter;
   font-size: 30px;
   font-weight: 400;
   line-height: 36px;
+  max-width: 640px;
 }
 
 .lead__image {
