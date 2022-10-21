@@ -1,6 +1,6 @@
-.lead {
+.intro {
   max-width: 984px;
   display: flex;
   flex-direction: column;
-  margin: 0 auto;
+  margin: 92px auto 0;
 }
