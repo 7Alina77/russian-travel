@@ -3,3 +3,9 @@
   list-style: none;
   padding: 0;
 }
+
+@media screen and (max-width: 568px) {
+  .footer__links {
+    flex-wrap: wrap;
+  }
+}

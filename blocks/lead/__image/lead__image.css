@@ -5,3 +5,15 @@
   max-height: auto;
   margin-top: 64px;
 }
+
+@media screen and (max-width: 1124px) {
+  .lead__image {
+    margin-top: 56px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .lead__image {
+    margin-top: 40px;
+  }
+}
