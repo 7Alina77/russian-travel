@@ -6,15 +6,11 @@
   padding: 28px 48px 0;
 }
 
-@media screen and (max-width: 1124px) {
-  .header {
-    padding: 28px 48px 0;
-  }
-}
-
 @media screen and (max-width: 984px) {
   .header {
-    padding: 28px 24px 0;
+    padding-right: 24px;
+    padding-left: 24px;
+    padding-bottom: 0;
   } 
 }
 
