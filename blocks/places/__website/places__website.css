@@ -1,11 +1,10 @@
 .places__website {
-    margin: 0;
-    list-style: none;
-    padding: 0;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 568px) {
+  .places__website {
+    padding: 0 16px;
   }
-  
-  @media screen and (max-width: 568px) {
-    .places__website {
-      padding: 0 16px;
-    }
-  }
+}

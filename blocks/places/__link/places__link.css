@@ -1,8 +1,7 @@
 .places__link {
-    padding-top: 12px;
-    text-decoration: underline;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 1.22;
-    align-items: flex-start;
-  }
+  text-decoration: underline;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.22;
+  align-items: flex-start;
+}
