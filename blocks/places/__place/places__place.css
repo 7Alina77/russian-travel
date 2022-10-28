@@ -22,7 +22,7 @@
   }
 }
 
-@media screen and (max-width: 590px) {
+@media screen and (max-width: 605px) {
   .places__place {
     grid-template-columns: fit-content(320px);
     grid-template-rows: auto;
