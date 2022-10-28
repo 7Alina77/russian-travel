@@ -16,4 +16,8 @@
     line-height: 1;
     padding-top: 32px;
   }
+
+  .footer__link:first-child {
+    padding-top: 0;
+  }
 }
